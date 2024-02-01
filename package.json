@@ -1,0 +1,26 @@
+{
+  "name": "pet-s-paw",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Y-GIT/pet-s-paw.git"
+  },
+  "keywords": [],
+  "author": "Mark Iakushin <iakushin.mark@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-Y-GIT/pet-s-paw/issues"
+  },
+  "homepage": "https://github.com/Mark-Y-GIT/pet-s-paw#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "parcel": "^2.11.0"
+  }
+}
