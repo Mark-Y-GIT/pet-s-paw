@@ -1,0 +1,1 @@
+{"mappings":"ACEA,QAAQ,GAAG,CAAC","sources":["<anon>","src/index.js"],"sourcesContent":["(function () {\n\nconsole.log(\"hello\");\n\n})();\n//# sourceMappingURL=index.b21827e0.js.map\n","import \"./sass/main.scss\";\r\n\r\nconsole.log(\"hello\");\r\n"],"names":["console","log"],"version":3,"file":"index.b21827e0.js.map"}
